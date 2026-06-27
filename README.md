@@ -113,12 +113,6 @@ The system reduces manual paperwork, improves administrative efficiency, and ena
 
 ---
 
-## 🏗️ Architecture
-
-![MVC](https://img.shields.io/badge/MVC-Architecture-success?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/CRUD-Operations-blue?style=for-the-badge)
-![Session](https://img.shields.io/badge/Session-Management-purple?style=for-the-badge)
-
 # 🏗 Architecture
 
 The project follows the **MVC (Model-View-Controller)** Architecture.
