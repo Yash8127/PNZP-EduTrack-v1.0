@@ -69,40 +69,55 @@ The system reduces manual paperwork, improves administrative efficiency, and ena
 
 ---
 
-# 🛠 Technology Stack
+# 🛠️ Technology Stack
 
-## Frontend
+## 💻 Programming Language
 
-* HTML5
-* CSS3
-* Bootstrap 5
-* JSP (Java Server Pages)
-
-## Backend
-
-* Java
-* Servlets
-* JDBC
-
-## Database
-
-* MySQL
-* Database Name: **tellabadu_school_db**
-
-## Server
-
-* Apache Tomcat
-
-## IDE
-
-* Eclipse IDE
-
-## Version Control
-
-* Git
-* GitHub
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
 
 ---
+
+## 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-Java_Server_Pages-orange?style=for-the-badge)
+
+---
+
+## ⚙️ Backend
+
+![Java Servlet](https://img.shields.io/badge/Java-Servlet-blue?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-Database_Connectivity-red?style=for-the-badge)
+
+---
+
+## 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🛠️ IDE & Server
+
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+---
+
+## 🔧 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏗️ Architecture
+
+![MVC](https://img.shields.io/badge/MVC-Architecture-success?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-blue?style=for-the-badge)
+![Session](https://img.shields.io/badge/Session-Management-purple?style=for-the-badge)
 
 # 🏗 Architecture
 
